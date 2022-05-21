@@ -1,6 +1,6 @@
 ## Hey there, I am Shantanu! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-I am currently pursuing my B.Tech in computer science from [MGM's Jawaharlal Nehru Engineering College](https://www.jnec.org/). I would like to code. Currently I am Learning MERN stack Development and I am enjoying to work on this technology.
+I am currently pursuing my B.Tech in computer science (2022 Grad) from [MGM's Jawaharlal Nehru Engineering College](https://www.jnec.org/). I would like to code. Currently I am Learning MERN stack Development and I am enjoying to work on this technology.
 
 ![GitHub Follow](https://img.shields.io/github/followers/shantanutakalkar.svg?style=social&label=Follow)    
 ![GitHub Star](https://img.shields.io/github/stars/shantanutakalkar?affiliations=OWNER%2CCOLLABORATOR&style=social&label=Star)

@@ -31,11 +31,12 @@ I am currently pursuing my B.Tech in computer science from [MGM's Jawaharlal Neh
 - 💬 Ask me about Software Development and Blockchain and Web 3.0.
 
 
-<img align="left" alt="Shantanu Github Stats" src="https://github-readme-stats.vercel.app/api?username=shantanutakalkar&count_private=true&theme=tokyonight&include_all_commits=true&show_icons=true" />
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=shantanutakalkar&show_icons=true&locale=en" alt="shantanutakalkar" /></p><br><br><br><br><br><br><br><br><br>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shantanutakalkar)](https://github.com/DenverCoder1/github-readme-streak-stats)
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=shantanutakalkar&" alt="shantanutakalkar" /></p><br><br><br><br><br><br><br><br><br><br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shantanutakalkar&show_icons=true&locale=en&layout=compact" alt="shantanutakalkar" /></p>
+
 
 
 

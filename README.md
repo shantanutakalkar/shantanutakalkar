@@ -27,7 +27,7 @@ I am currently pursuing my B.Tech in computer science (2022 Grad) from [MGM's Ja
 - 🌱 I’m currently learning React JS.
 - 👯 I’m looking to collaborate on project which solves problem of many peoples around the globe.
 - 🤔 I’m looking for help with Competitive Programming.
-- 📜 My Resume : [Download Resume](https://drive.google.com/file/d/17ZOB5e9uijFqYWX6m6Qf9KK1LuZhNFKQ/view?usp=sharing)
+- 📜 My Resume : [Download Resume](https://drive.google.com/file/d/1TlrCdSmRDC3YM3RAWQVQPuXbBRuwIH7h/view)
 - 💬 Ask me about Software Development , MERN stack Development, Artificial Intelligence.
 
 

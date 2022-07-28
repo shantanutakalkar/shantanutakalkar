@@ -1,4 +1,4 @@
-## Hey there, I am Shantanu! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="10px">
+## Hello Everyone, I am Shantanu! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="10px">
 
 I am currently pursuing my B.Tech in computer science (2022 Grad) from [MGM's Jawaharlal Nehru Engineering College](https://www.jnec.org/). I would like to code. Currently I am Learning MERN stack Development and I am enjoying to work on this technology.
 
